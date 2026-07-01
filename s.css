@@ -1,0 +1,15 @@
+#a{
+    width:450px;
+    height:500px;
+    padding:20px;
+    box-sizing: border-box;
+    background-color: rgb(230, 255, 2);
+    border: 10px solid rgb(4, 248, 25);
+}
+body{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ align-items: center;
+
+}
